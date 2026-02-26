@@ -1,5 +1,9 @@
+import { Cats } from "./components/Cats";
+
 function App() {
-    return <></>;
+    return <>
+    <Cats />
+    </>;
 }
 
 export default App;
